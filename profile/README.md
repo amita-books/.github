@@ -38,6 +38,8 @@
 
 완성된 PDF는 각 저장소의 **Releases**에 있습니다.
 
+새 책은 [book-template](https://github.com/amita-books/book-template)에서 시작합니다. 빌드 도구, 원고와 부록의 틀, 작업 지침이 들어 있습니다.
+
 ---
 
 <p align="center">by <a href="https://github.com/AmitaWhite">AmitaWhite</a></p>
